@@ -1,0 +1,26 @@
+---
+title: "Contact"
+description: "Contact information for CogDyn Lab"
+---
+
+## Email
+
+<your.email@university.edu>
+
+## Address
+
+CogDyn Lab  
+Department, University  
+Building / Room  
+Street Address  
+City, Country
+
+## Directions
+
+Add campus map, building entrance information, parking, and public transportation notes here.
+
+## Links
+
+- [GitHub](https://github.com/cogdynlab)
+- [University profile](https://example.edu)
+- [Google Scholar](https://scholar.google.com)

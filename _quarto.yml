@@ -1,0 +1,50 @@
+project:
+  type: website
+  resources:
+    - CNAME
+    - .nojekyll
+
+website:
+  title: "CogDyn Lab"
+  site-url: "https://cogdynlab.org"
+  description: "Cognitive Dynamics Lab research homepage"
+  favicon: assets/logo.svg
+  navbar:
+    logo: assets/logo.svg
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: news.qmd
+        text: News
+      - href: join.qmd
+        text: Join Us
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/cogdynlab
+        aria-label: CogDyn Lab GitHub
+  page-footer:
+    left: "© 2026 CogDyn Lab"
+    right: "Built with [Quarto](https://quarto.org)"
+  search: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, assets/styles.scss]
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

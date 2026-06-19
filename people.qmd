@@ -1,0 +1,46 @@
+---
+title: "People"
+description: "Members of CogDyn Lab"
+---
+
+## Principal investigator
+
+::: {.people-card}
+![](assets/person-placeholder.svg){fig-alt="Placeholder portrait" width="120"}
+
+### Prof. Your Name
+
+Assistant Professor / Principal Investigator  
+Department, University  
+Email: <your.email@university.edu>  
+Interests: computational cognition, decision-making, cognitive dynamics
+:::
+
+## Graduate students
+
+::: {.people-card}
+![](assets/person-placeholder.svg){fig-alt="Placeholder portrait" width="120"}
+
+### Student Name
+
+Ph.D./M.S. student  
+Research interests: learning, decision-making, modeling
+:::
+
+::: {.people-card}
+![](assets/person-placeholder.svg){fig-alt="Placeholder portrait" width="120"}
+
+### Student Name
+
+M.S. student  
+Research interests: behavioral experiments, human-AI interaction
+:::
+
+## Undergraduate researchers
+
+- Student Name — topic or project
+- Student Name — topic or project
+
+## Alumni
+
+- Alumni Name — Current position

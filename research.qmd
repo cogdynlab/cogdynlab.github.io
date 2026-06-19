@@ -1,0 +1,40 @@
+---
+title: "Research"
+description: "Research themes and questions of CogDyn Lab"
+---
+
+Our lab studies cognition as a dynamic system: how mental representations, decisions, and behavior change across time, task, and environment.
+
+## Main questions
+
+1. How do people learn and update beliefs from noisy evidence?
+2. How do attention, memory, and decision processes interact over time?
+3. How can computational models explain individual differences in behavior?
+4. How do people understand, trust, and collaborate with AI systems?
+
+## Research areas
+
+### Learning and adaptation
+
+We model how people adapt to changing environments, learn from feedback, and transfer knowledge across contexts.
+
+### Decision-making and cognitive control
+
+We investigate how people allocate attention, control actions, resolve conflict, and make decisions under uncertainty.
+
+### Computational modeling
+
+We use mathematical, statistical, and machine-learning models to formalize hypotheses about cognition and behavior.
+
+### Human-AI interaction
+
+We study how humans interpret, rely on, and adapt to intelligent systems.
+
+## Methods
+
+- Behavioral experiments
+- Computational modeling
+- Bayesian/statistical inference
+- Machine learning and simulation
+- Online experiments and longitudinal data
+- Open science and reproducible workflows

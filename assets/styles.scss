@@ -1,0 +1,53 @@
+/*-- scss:defaults --*/
+$primary: #2b4c7e;
+$secondary: #567ebb;
+$body-color: #1f2933;
+$link-color: #2b4c7e;
+$navbar-bg: #ffffff;
+$navbar-fg: #1f2933;
+$navbar-hl: #2b4c7e;
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+
+/*-- scss:rules --*/
+.hero-banner {
+  padding: 4rem 2rem;
+  margin: 1rem 0 2rem 0;
+  border-radius: 1.25rem;
+  background: linear-gradient(135deg, #eef4ff 0%, #ffffff 58%, #f5f7fb 100%);
+  border: 1px solid #e7edf7;
+}
+
+.hero-banner h1 {
+  font-size: clamp(2.2rem, 6vw, 4rem);
+  font-weight: 750;
+  letter-spacing: -0.04em;
+}
+
+.hero-banner p {
+  font-size: 1.25rem;
+  max-width: 760px;
+}
+
+.people-card {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  gap: 1.2rem;
+  align-items: start;
+  padding: 1rem 0;
+  border-bottom: 1px solid #edf0f5;
+}
+
+.people-card img {
+  border-radius: 50%;
+  background: #edf2f7;
+}
+
+@media (max-width: 720px) {
+  .people-card {
+    grid-template-columns: 1fr;
+  }
+}
+
+.quarto-title-banner {
+  background: #f8fafc;
+}

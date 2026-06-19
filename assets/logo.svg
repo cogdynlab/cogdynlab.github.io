@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="CogDyn Lab logo">
+  <rect width="128" height="128" rx="28" fill="#2b4c7e"/>
+  <circle cx="64" cy="64" r="36" fill="none" stroke="#ffffff" stroke-width="8"/>
+  <path d="M35 66c14-22 44-22 58 0" fill="none" stroke="#b8d8ff" stroke-width="8" stroke-linecap="round"/>
+  <path d="M43 79c12 13 30 13 42 0" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="64" cy="43" r="7" fill="#ffffff"/>
+</svg>

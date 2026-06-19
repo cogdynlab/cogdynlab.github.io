@@ -1,0 +1,52 @@
+---
+title: "CogDyn Lab"
+subtitle: "Understanding cognition, dynamics, and intelligent behavior"
+listing: false
+---
+
+::: {.hero-banner}
+# CogDyn Lab
+
+We study how cognitive systems adapt, learn, decide, and interact over time.
+
+[Explore our research](research.qmd){.btn .btn-primary} [Join us](join.qmd){.btn .btn-outline-primary}
+:::
+
+## About
+
+The **Cognitive Dynamics Lab** investigates the mechanisms underlying learning, decision-making, attention, memory, and adaptive behavior. We combine computational modeling, behavioral experiments, data analysis, and interdisciplinary collaboration.
+
+Replace this paragraph with the lab's actual mission statement, university affiliation, and major research keywords.
+
+## Research themes
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-4}
+### Computational cognition
+
+Models of learning, inference, decision-making, and cognitive control.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Behavioral dynamics
+
+Experiments and analyses of how behavior evolves across time and context.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Human-AI interaction
+
+Understanding how people collaborate, adapt, and reason with intelligent systems.
+:::
+:::
+
+## Latest news
+
+- **2026-06-19** — Website launched. Replace this with recent lab updates.
+- **2026-06-01** — Add accepted papers, awards, recruitment posts, seminars, and grants here.
+
+[See all news](news.qmd)
+
+## Open positions
+
+We welcome motivated graduate students, undergraduate interns, and collaborators interested in cognitive dynamics, computational modeling, and human behavior. See [Join Us](join.qmd) for details.

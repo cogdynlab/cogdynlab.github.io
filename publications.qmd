@@ -1,0 +1,20 @@
+---
+title: "Publications"
+description: "Publications from CogDyn Lab"
+bibliography: publications.bib
+nocite: |
+  @*
+---
+
+::: {.callout-note}
+This page is connected to `publications.bib`. Replace the sample BibTeX entries with real publications. Quarto will render the bibliography automatically.
+:::
+
+## Selected publications
+
+Add a short curated list here if you want to highlight representative work.
+
+## Full list
+
+::: {#refs}
+:::

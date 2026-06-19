@@ -1,0 +1,18 @@
+---
+title: "News"
+description: "Updates from CogDyn Lab"
+---
+
+## 2026
+
+### Website launched
+
+**2026-06-19** — The CogDyn Lab website is now live at `https://cogdynlab.org`.
+
+### Add your next update here
+
+**2026-06-01** — Use this page for paper acceptances, conference presentations, awards, recruitment posts, seminars, grants, and lab events.
+
+## News writing convention
+
+Use a reverse-chronological order. Keep each item short: date, event, one-sentence context, and a link when available.

@@ -1,0 +1,27 @@
+---
+title: "Projects"
+description: "Projects, software, datasets, and demos from CogDyn Lab"
+---
+
+## Current projects
+
+### Project title
+
+Briefly describe the research question, methods, collaborators, and outputs.
+
+- Status: ongoing
+- People: Name, Name
+- Links: paper / code / data / demo
+
+### Project title
+
+Briefly describe the project in one or two paragraphs.
+
+- Status: ongoing
+- People: Name, Name
+- Links: paper / code / data / demo
+
+## Software and datasets
+
+- **Repository name** — one-sentence description. [GitHub](https://github.com/cogdynlab)
+- **Dataset name** — one-sentence description. DOI or OSF link.

@@ -1,0 +1,27 @@
+---
+title: "Join Us"
+description: "Open positions and application information"
+---
+
+We welcome students and collaborators interested in cognitive dynamics, computational modeling, behavioral experiments, and human-AI interaction.
+
+## Prospective graduate students
+
+Please send an email with:
+
+- A brief statement of research interests
+- CV or resume
+- Transcript, if applicable
+- Writing sample or project portfolio, if available
+
+## Undergraduate research assistants
+
+Undergraduate students can contribute to literature review, experiment implementation, data collection, data analysis, and visualization.
+
+## Collaborators
+
+We are open to interdisciplinary collaborations in cognitive science, psychology, neuroscience, computer science, design, education, and AI.
+
+## Contact
+
+Email: <your.email@university.edu>
